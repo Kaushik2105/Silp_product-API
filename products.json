@@ -1,0 +1,73 @@
+[
+    {
+      "productName": "Jug",
+      "seller": "Edmund Lamburne",
+      "sellerId": 91,
+      "phoneNo": 2009,
+      "imagePath": "https://5.imimg.com/data5/IA/RV/OH/SELLER-77926720/regular-jug-10-b-bg-1000x1000.jpg"
+    },
+    {
+      "productName": "Bottle",
+      "seller": "Gregg Joplin",
+      "sellerId": 38,
+      "phoneNo": 6293,
+      "imagePath": "https://th.bing.com/th/id/OIP.n4dml4V5smKfGmZSbDgzZgHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "productName": "Glass",
+      "seller": "Solomon Scotfurth",
+      "sellerId": 47,
+      "phoneNo": 5112,
+      "imagePath": "https://th.bing.com/th/id/OIP.WrZiV_DXMevPJB9dy8YwBAHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "productName": "Plates",
+      "seller": "Charley Francklyn",
+      "SellerId": 99,
+      "phoneNo": 1414,
+      "imagePath": "https://th.bing.com/th/id/OIP.oqu-DhJzb1Jrp_NJnmKS3wHaGq?rs=1&pid=ImgDetMain"
+    },
+    {
+      "productName": "Water Container",
+      "seller": "Siouxie Dumblton",
+      "sellerId": 14,
+      "phoneNo": 6714,
+      "imagePath": "https://m.media-amazon.com/images/I/71ZYSmMycfL._SL1500_.jpg"
+    },
+    {
+      "productName": "Necklace",
+      "seller": "Ikey Veck",
+      "sellerId": 92,
+      "phoneNo": 8714,
+      "imagePath": "https://th.bing.com/th/id/OIP.IS-Gy7QxmEGT0BLPXsYv4wHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "productName": "Earring",
+      "seller": "Irvin Catt",
+      "sellerId": 80,
+      "phoneNo": 1115,
+      "imagePath": "https://th.bing.com/th/id/OIP.GsCF-p4tZ78TxI73pBEIFwHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "productName": "Hanger",
+      "seller": "Ninnetta Winckworth",
+      "sellerId": 47,
+      "phoneNo": 1712,
+      "imagePath": "https://i.pinimg.com/originals/53/cb/55/53cb55f9d51415e233017c521fb87f83.jpg"
+    },
+    {
+      "productName": "Chandelier",
+      "seller": "Diahann Comsty",
+      "sellerId": 45,
+      "phoneNo": 8112,
+      "imagePath": "hhttps://i.pinimg.com/originals/7f/0c/3a/7f0c3a432686b4c49fa3a85b1d28870a.jpg"
+    },
+    {
+      "productName": "Clips",
+      "seller": "Fianna Houndesome",
+      "sellerId": 97,
+      "phoneNo": 1615,
+      "imagePath": "https://th.bing.com/th/id/OIP.CzJDkg1WHPFI5I8BepDp2AHaHa?rs=1&pid=ImgDetMain"
+    }
+  ]
+  
