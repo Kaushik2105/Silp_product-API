@@ -1,0 +1,4 @@
+Hostname:localhost
+Database:silpgram_products_db
+Username:silpgram_products_db
+Password:Pbw8KeGPXNXdKZNQRNpS
